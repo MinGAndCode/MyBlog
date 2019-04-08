@@ -1,0 +1,28 @@
+${AnsiColor.BRIGHT_GREEN}
+***制作网站：http://patorjk.com/software/taag***
+MMMMMMMM               MMMMMMMM                                   BBBBBBBBBBBBBBBBB        lllllll
+M:::::::M             M:::::::M                                   B::::::::::::::::B       l:::::l
+M::::::::M           M::::::::M                                   B::::::BBBBBB:::::B      l:::::l
+M:::::::::M         M:::::::::M                                   BB:::::B     B:::::B     l:::::l
+M::::::::::M       M::::::::::M     yyyyyyy           yyyyyyy       B::::B     B:::::B      l::::l         ooooooooooo           ggggggggg   ggggg
+M:::::::::::M     M:::::::::::M      y:::::y         y:::::y        B::::B     B:::::B      l::::l       oo:::::::::::oo        g:::::::::ggg::::g
+M:::::::M::::M   M::::M:::::::M       y:::::y       y:::::y         B::::BBBBBB:::::B       l::::l      o:::::::::::::::o      g:::::::::::::::::g
+M::::::M M::::M M::::M M::::::M        y:::::y     y:::::y          B:::::::::::::BB        l::::l      o:::::ooooo:::::o     g::::::ggggg::::::gg
+M::::::M  M::::M::::M  M::::::M         y:::::y   y:::::y           B::::BBBBBB:::::B       l::::l      o::::o     o::::o     g:::::g     g:::::g
+M::::::M   M:::::::M   M::::::M          y:::::y y:::::y            B::::B     B:::::B      l::::l      o::::o     o::::o     g:::::g     g:::::g
+M::::::M    M:::::M    M::::::M           y:::::y:::::y             B::::B     B:::::B      l::::l      o::::o     o::::o     g:::::g     g:::::g
+M::::::M     MMMMM     M::::::M            y:::::::::y              B::::B     B:::::B      l::::l      o::::o     o::::o     g::::::g    g:::::g
+M::::::M               M::::::M             y:::::::y             BB:::::BBBBBB::::::B     l::::::l     o:::::ooooo:::::o     g:::::::ggggg:::::g
+M::::::M               M::::::M              y:::::y              B:::::::::::::::::B      l::::::l     o:::::::::::::::o      g::::::::::::::::g
+M::::::M               M::::::M             y:::::y               B::::::::::::::::B       l::::::l      oo:::::::::::oo        gg::::::::::::::g
+MMMMMMMM               MMMMMMMM            y:::::y                BBBBBBBBBBBBBBBBB        llllllll        ooooooooooo            gggggggg::::::g
+                                          y:::::y                                                                                         g:::::g
+                                         y:::::y                                                                              gggggg      g:::::g
+                                        y:::::y                                                                               g:::::gg   gg:::::g
+                                       y:::::y                                                                                 g::::::ggg:::::::g
+                                      yyyyyyy                                                                                   gg:::::::::::::g
+                                                                                                                                  ggg::::::ggg
+                                                                                                                                     gggggg
+${AnsiColor.BLACK}
+Application Version: ${application.version}${application.formatted-version}
+Spring Boot Version: ${spring-boot.version}${spring-boot.formatted-version}
